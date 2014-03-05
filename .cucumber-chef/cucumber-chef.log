@@ -1,0 +1,121 @@
+2014-03-04|13:37:25.315026|03235| INFO|log_helper.rb:33:log_page_break|==============================================
+2014-03-04|13:37:25.318422|03235| INFO|log_helper.rb:29:log_key_value| CHEF_REPO..............: "/home/ubuntu/projects/chef-repo"
+2014-03-04|13:37:25.318536|03235| INFO|log_helper.rb:29:log_key_value| CONFIG_RB..............: "/home/ubuntu/projects/chef-repo/.cucumber-chef/config.rb"
+2014-03-04|13:37:25.318639|03235| INFO|log_helper.rb:29:log_key_value| LABFILE................: "/home/ubuntu/projects/chef-repo/Labfile"
+2014-03-04|13:37:25.318870|03235| INFO|log_helper.rb:29:log_key_value| LOG_FILE...............: "/home/ubuntu/projects/chef-repo/.cucumber-chef/cucumber-chef.log"
+2014-03-04|13:37:25.318986|03235| INFO|log_helper.rb:29:log_key_value| PROGRAM................: "/home/ubuntu/.rvm/gems/ruby-2.1.1@chef/bin/cucumber-chef"
+2014-03-04|13:37:25.319095|03235| INFO|log_helper.rb:29:log_key_value| UNAME..................: "Linux ubuntu-desktop 3.11.0-12-generic #19-Ubuntu SMP Wed Oct 9 16:20:46 UTC 2013 x86_64 x86_64 x86_64 GNU/Linux"
+2014-03-04|13:37:25.319199|03235| INFO|log_helper.rb:33:log_page_break|----------------------------------------------
+2014-03-04|13:37:25.319504|03235| INFO|log_helper.rb:29:log_key_value| CUCUMBER_CHEF_VERSION..: "3.0.8"
+2014-03-04|13:37:25.319611|03235| INFO|log_helper.rb:29:log_key_value| FOG_VERSION............: "1.20.0"
+2014-03-04|13:37:25.319712|03235| INFO|log_helper.rb:29:log_key_value| RUBY_ENGINE............: "ruby"
+2014-03-04|13:37:25.319817|03235| INFO|log_helper.rb:29:log_key_value| RUBY_PATCHLEVEL........: 76
+2014-03-04|13:37:25.320049|03235| INFO|log_helper.rb:29:log_key_value| RUBY_PLATFORM..........: "x86_64-linux"
+2014-03-04|13:37:25.320156|03235| INFO|log_helper.rb:29:log_key_value| RUBY_VERSION...........: "2.1.1"
+2014-03-04|13:37:25.320258|03235| INFO|log_helper.rb:29:log_key_value| ZTK_VERSION............: "1.18.3"
+2014-03-04|13:37:25.320354|03235| INFO|log_helper.rb:33:log_page_break|----------------------------------------------
+2014-03-04|13:37:25.320449|03235| INFO|utility.rb:135:boot|loading cucumber-chef v3.0.8
+2014-03-04|13:37:25.320772|03235| INFO|utility.rb:136:boot|boot(/home/ubuntu/projects/chef-repo/.cucumber-chef/config.rb)
+2014-03-04|13:37:37.370540|03238| INFO|log_helper.rb:33:log_page_break|==============================================
+2014-03-04|13:37:37.377146|03238| INFO|log_helper.rb:29:log_key_value| CHEF_REPO..............: "/home/ubuntu/projects/chef-repo"
+2014-03-04|13:37:37.377478|03238| INFO|log_helper.rb:29:log_key_value| CONFIG_RB..............: "/home/ubuntu/projects/chef-repo/.cucumber-chef/config.rb"
+2014-03-04|13:37:37.377884|03238| INFO|log_helper.rb:29:log_key_value| LABFILE................: "/home/ubuntu/projects/chef-repo/Labfile"
+2014-03-04|13:37:37.378317|03238| INFO|log_helper.rb:29:log_key_value| LOG_FILE...............: "/home/ubuntu/projects/chef-repo/.cucumber-chef/cucumber-chef.log"
+2014-03-04|13:37:37.378724|03238| INFO|log_helper.rb:29:log_key_value| PROGRAM................: "/home/ubuntu/.rvm/gems/ruby-2.1.1@chef/bin/cucumber-chef"
+2014-03-04|13:37:37.378977|03238| INFO|log_helper.rb:29:log_key_value| UNAME..................: "Linux ubuntu-desktop 3.11.0-12-generic #19-Ubuntu SMP Wed Oct 9 16:20:46 UTC 2013 x86_64 x86_64 x86_64 GNU/Linux"
+2014-03-04|13:37:37.379129|03238| INFO|log_helper.rb:33:log_page_break|----------------------------------------------
+2014-03-04|13:37:37.379331|03238| INFO|log_helper.rb:29:log_key_value| CUCUMBER_CHEF_VERSION..: "3.0.8"
+2014-03-04|13:37:37.379495|03238| INFO|log_helper.rb:29:log_key_value| FOG_VERSION............: "1.20.0"
+2014-03-04|13:37:37.379695|03238| INFO|log_helper.rb:29:log_key_value| RUBY_ENGINE............: "ruby"
+2014-03-04|13:37:37.379803|03238| INFO|log_helper.rb:29:log_key_value| RUBY_PATCHLEVEL........: 76
+2014-03-04|13:37:37.379905|03238| INFO|log_helper.rb:29:log_key_value| RUBY_PLATFORM..........: "x86_64-linux"
+2014-03-04|13:37:37.380008|03238| INFO|log_helper.rb:29:log_key_value| RUBY_VERSION...........: "2.1.1"
+2014-03-04|13:37:37.380108|03238| INFO|log_helper.rb:29:log_key_value| ZTK_VERSION............: "1.18.3"
+2014-03-04|13:37:37.380276|03238| INFO|log_helper.rb:33:log_page_break|----------------------------------------------
+2014-03-04|13:37:37.380376|03238| INFO|utility.rb:135:boot|loading cucumber-chef v3.0.8
+2014-03-04|13:37:37.380708|03238| INFO|utility.rb:136:boot|boot(/home/ubuntu/projects/chef-repo/.cucumber-chef/config.rb)
+2014-03-04|13:37:37.502505|03238| INFO|benchmark.rb:81:bench|Creating VAGRANT instance
+2014-03-04|13:37:37.528143|03238| INFO|exec.rb:36:exec|command("/usr/bin/env vagrant up test-lab-ubuntu")
+================[ ubuntu@ubuntu-desktop >>> COMMAND ]================
+"/usr/bin/env vagrant up test-lab-ubuntu"
+----------------[ ubuntu@ubuntu-desktop >>> STARTED ]----------------
+----------------[ ubuntu@ubuntu-desktop >>> STDERR ]----------------
+The machine with the name 'test-lab-ubuntu' was not found configured for
+this Vagrant environment.
+================[ ubuntu@ubuntu-desktop >>> STOPPED ]================
+2014-03-04|13:37:38.494092|03238|FATAL|exec.rb:137:exec|EXCEPTION: ZTK::CommandError - "exec(\"/usr/bin/env vagrant up test-lab-ubuntu\", #<OpenStruct ui=#<ZTK::UI:0x000000010bb7f0 @stdout=#<IO:<STDOUT>>, @stderr=#<IO:<STDERR>>, @stdin=#<IO:<STDIN>>, @logger=#<ZTK::Logger loggers=[#<File:/home/ubuntu/projects/chef-repo/.cucumber-chef/cucumber-chef.log>]>, @verbose=false, @quiet=false>, timeout=600, ignore_exit_status=false, exit_code=0, silence=true>) failed! [1]"
+2014-03-04|13:37:52.084746|03256| INFO|log_helper.rb:33:log_page_break|==============================================
+2014-03-04|13:37:52.090891|03256| INFO|log_helper.rb:29:log_key_value| CHEF_REPO..............: "/home/ubuntu/projects/chef-repo"
+2014-03-04|13:37:52.091021|03256| INFO|log_helper.rb:29:log_key_value| CONFIG_RB..............: "/home/ubuntu/projects/chef-repo/.cucumber-chef/config.rb"
+2014-03-04|13:37:52.091126|03256| INFO|log_helper.rb:29:log_key_value| LABFILE................: "/home/ubuntu/projects/chef-repo/Labfile"
+2014-03-04|13:37:52.091311|03256| INFO|log_helper.rb:29:log_key_value| LOG_FILE...............: "/home/ubuntu/projects/chef-repo/.cucumber-chef/cucumber-chef.log"
+2014-03-04|13:37:52.091418|03256| INFO|log_helper.rb:29:log_key_value| PROGRAM................: "/home/ubuntu/.rvm/gems/ruby-2.1.1@chef/bin/cucumber-chef"
+2014-03-04|13:37:52.091521|03256| INFO|log_helper.rb:29:log_key_value| UNAME..................: "Linux ubuntu-desktop 3.11.0-12-generic #19-Ubuntu SMP Wed Oct 9 16:20:46 UTC 2013 x86_64 x86_64 x86_64 GNU/Linux"
+2014-03-04|13:37:52.091623|03256| INFO|log_helper.rb:33:log_page_break|----------------------------------------------
+2014-03-04|13:37:52.091922|03256| INFO|log_helper.rb:29:log_key_value| CUCUMBER_CHEF_VERSION..: "3.0.8"
+2014-03-04|13:37:52.092029|03256| INFO|log_helper.rb:29:log_key_value| FOG_VERSION............: "1.20.0"
+2014-03-04|13:37:52.092132|03256| INFO|log_helper.rb:29:log_key_value| RUBY_ENGINE............: "ruby"
+2014-03-04|13:37:52.092236|03256| INFO|log_helper.rb:29:log_key_value| RUBY_PATCHLEVEL........: 76
+2014-03-04|13:37:52.092339|03256| INFO|log_helper.rb:29:log_key_value| RUBY_PLATFORM..........: "x86_64-linux"
+2014-03-04|13:37:52.092570|03256| INFO|log_helper.rb:29:log_key_value| RUBY_VERSION...........: "2.1.1"
+2014-03-04|13:37:52.092673|03256| INFO|log_helper.rb:29:log_key_value| ZTK_VERSION............: "1.18.3"
+2014-03-04|13:37:52.092769|03256| INFO|log_helper.rb:33:log_page_break|----------------------------------------------
+2014-03-04|13:37:52.092866|03256| INFO|utility.rb:135:boot|loading cucumber-chef v3.0.8
+2014-03-04|13:37:52.093173|03256| INFO|utility.rb:136:boot|boot(/home/ubuntu/projects/chef-repo/.cucumber-chef/config.rb)
+2014-03-04|13:37:52.148300|03256| INFO|benchmark.rb:81:bench|Creating VAGRANT instance
+2014-03-04|13:37:52.155678|03256| INFO|exec.rb:36:exec|command("/usr/bin/env vagrant up test-lab-ubuntu")
+================[ ubuntu@ubuntu-desktop >>> COMMAND ]================
+"/usr/bin/env vagrant up test-lab-ubuntu"
+----------------[ ubuntu@ubuntu-desktop >>> STARTED ]----------------
+----------------[ ubuntu@ubuntu-desktop >>> STDERR ]----------------
+The machine with the name 'test-lab-ubuntu' was not found configured for
+this Vagrant environment.
+================[ ubuntu@ubuntu-desktop >>> STOPPED ]================
+2014-03-04|13:37:53.066645|03256|FATAL|exec.rb:137:exec|EXCEPTION: ZTK::CommandError - "exec(\"/usr/bin/env vagrant up test-lab-ubuntu\", #<OpenStruct ui=#<ZTK::UI:0x000000029c1858 @stdout=#<IO:<STDOUT>>, @stderr=#<IO:<STDERR>>, @stdin=#<IO:<STDIN>>, @logger=#<ZTK::Logger loggers=[#<File:/home/ubuntu/projects/chef-repo/.cucumber-chef/cucumber-chef.log>]>, @verbose=false, @quiet=false>, timeout=600, ignore_exit_status=false, exit_code=0, silence=true>) failed! [1]"
+2014-03-05|13:39:00.515568|02813| INFO|log_helper.rb:33:log_page_break|==============================================
+2014-03-05|13:39:00.531903|02813| INFO|log_helper.rb:29:log_key_value| CHEF_REPO..............: "/home/ubuntu/projects/chef-repo"
+2014-03-05|13:39:00.532012|02813| INFO|log_helper.rb:29:log_key_value| CONFIG_RB..............: "/home/ubuntu/projects/chef-repo/.cucumber-chef/config.rb"
+2014-03-05|13:39:00.532114|02813| INFO|log_helper.rb:29:log_key_value| LABFILE................: "/home/ubuntu/projects/chef-repo/Labfile"
+2014-03-05|13:39:00.532285|02813| INFO|log_helper.rb:29:log_key_value| LOG_FILE...............: "/home/ubuntu/projects/chef-repo/.cucumber-chef/cucumber-chef.log"
+2014-03-05|13:39:00.532385|02813| INFO|log_helper.rb:29:log_key_value| PROGRAM................: "/home/ubuntu/.rvm/gems/ruby-2.1.1@chef/bin/cucumber-chef"
+2014-03-05|13:39:00.532555|02813| INFO|log_helper.rb:29:log_key_value| UNAME..................: "Linux ubuntu-desktop 3.11.0-17-generic #31-Ubuntu SMP Mon Feb 3 21:52:43 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux"
+2014-03-05|13:39:00.532862|02813| INFO|log_helper.rb:33:log_page_break|----------------------------------------------
+2014-03-05|13:39:00.533606|02813| INFO|log_helper.rb:29:log_key_value| CUCUMBER_CHEF_VERSION..: "3.0.8"
+2014-03-05|13:39:00.533899|02813| INFO|log_helper.rb:29:log_key_value| FOG_VERSION............: "1.20.0"
+2014-03-05|13:39:00.534184|02813| INFO|log_helper.rb:29:log_key_value| RUBY_ENGINE............: "ruby"
+2014-03-05|13:39:00.534470|02813| INFO|log_helper.rb:29:log_key_value| RUBY_PATCHLEVEL........: 76
+2014-03-05|13:39:00.535045|02813| INFO|log_helper.rb:29:log_key_value| RUBY_PLATFORM..........: "x86_64-linux"
+2014-03-05|13:39:00.535337|02813| INFO|log_helper.rb:29:log_key_value| RUBY_VERSION...........: "2.1.1"
+2014-03-05|13:39:00.535623|02813| INFO|log_helper.rb:29:log_key_value| ZTK_VERSION............: "1.18.3"
+2014-03-05|13:39:00.535889|02813| INFO|log_helper.rb:33:log_page_break|----------------------------------------------
+2014-03-05|13:39:00.536152|02813| INFO|utility.rb:135:boot|loading cucumber-chef v3.0.8
+2014-03-05|13:39:00.536806|02813| INFO|utility.rb:136:boot|boot(/home/ubuntu/projects/chef-repo/.cucumber-chef/config.rb)
+2014-03-05|13:39:34.890793|02818| INFO|log_helper.rb:33:log_page_break|==============================================
+2014-03-05|13:39:34.896845|02818| INFO|log_helper.rb:29:log_key_value| CHEF_REPO..............: "/home/ubuntu/projects/chef-repo"
+2014-03-05|13:39:34.897158|02818| INFO|log_helper.rb:29:log_key_value| CONFIG_RB..............: "/home/ubuntu/projects/chef-repo/.cucumber-chef/config.rb"
+2014-03-05|13:39:34.897458|02818| INFO|log_helper.rb:29:log_key_value| LABFILE................: "/home/ubuntu/projects/chef-repo/Labfile"
+2014-03-05|13:39:34.897930|02818| INFO|log_helper.rb:29:log_key_value| LOG_FILE...............: "/home/ubuntu/projects/chef-repo/.cucumber-chef/cucumber-chef.log"
+2014-03-05|13:39:34.898219|02818| INFO|log_helper.rb:29:log_key_value| PROGRAM................: "/home/ubuntu/.rvm/gems/ruby-2.1.1@chef/bin/cucumber-chef"
+2014-03-05|13:39:34.898524|02818| INFO|log_helper.rb:29:log_key_value| UNAME..................: "Linux ubuntu-desktop 3.11.0-17-generic #31-Ubuntu SMP Mon Feb 3 21:52:43 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux"
+2014-03-05|13:39:34.898808|02818| INFO|log_helper.rb:33:log_page_break|----------------------------------------------
+2014-03-05|13:39:34.899576|02818| INFO|log_helper.rb:29:log_key_value| CUCUMBER_CHEF_VERSION..: "3.0.8"
+2014-03-05|13:39:34.899872|02818| INFO|log_helper.rb:29:log_key_value| FOG_VERSION............: "1.20.0"
+2014-03-05|13:39:34.900164|02818| INFO|log_helper.rb:29:log_key_value| RUBY_ENGINE............: "ruby"
+2014-03-05|13:39:34.900452|02818| INFO|log_helper.rb:29:log_key_value| RUBY_PATCHLEVEL........: 76
+2014-03-05|13:39:34.901044|02818| INFO|log_helper.rb:29:log_key_value| RUBY_PLATFORM..........: "x86_64-linux"
+2014-03-05|13:39:34.901337|02818| INFO|log_helper.rb:29:log_key_value| RUBY_VERSION...........: "2.1.1"
+2014-03-05|13:39:34.901626|02818| INFO|log_helper.rb:29:log_key_value| ZTK_VERSION............: "1.18.3"
+2014-03-05|13:39:34.901895|02818| INFO|log_helper.rb:33:log_page_break|----------------------------------------------
+2014-03-05|13:39:34.902157|02818| INFO|utility.rb:135:boot|loading cucumber-chef v3.0.8
+2014-03-05|13:39:34.902971|02818| INFO|utility.rb:136:boot|boot(/home/ubuntu/projects/chef-repo/.cucumber-chef/config.rb)
+2014-03-05|13:39:35.026680|02818| INFO|benchmark.rb:81:bench|Creating VAGRANT instance
+2014-03-05|13:39:35.049492|02818| INFO|exec.rb:36:exec|command("/usr/bin/env vagrant up test-lab-ubuntu")
+================[ ubuntu@ubuntu-desktop >>> COMMAND ]================
+"/usr/bin/env vagrant up test-lab-ubuntu"
+----------------[ ubuntu@ubuntu-desktop >>> STARTED ]----------------
+----------------[ ubuntu@ubuntu-desktop >>> STDERR ]----------------
+VirtualBox is complaining that the kernel module is not loaded. Please
+run `VBoxManage --version` or open the VirtualBox GUI to see the error
+message which should contain instructions on how to fix this error.
+================[ ubuntu@ubuntu-desktop >>> STOPPED ]================
+2014-03-05|13:39:39.099102|02818|FATAL|exec.rb:137:exec|EXCEPTION: ZTK::CommandError - "exec(\"/usr/bin/env vagrant up test-lab-ubuntu\", #<OpenStruct ui=#<ZTK::UI:0x00000001e5d6b0 @stdout=#<IO:<STDOUT>>, @stderr=#<IO:<STDERR>>, @stdin=#<IO:<STDIN>>, @logger=#<ZTK::Logger loggers=[#<File:/home/ubuntu/projects/chef-repo/.cucumber-chef/cucumber-chef.log>]>, @verbose=false, @quiet=false>, timeout=600, ignore_exit_status=false, exit_code=0, silence=true>) failed! [1]"
